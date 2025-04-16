@@ -1,0 +1,15 @@
+[2025-04-16 16:38:11] Lottery system started.
+[2025-04-16 16:38:28] Lottery system started.
+[2025-04-16 16:38:46] User registered: Nitish at 2025-04-16 16:38:46
+[2025-04-16 16:38:46] Extension activated due to low registrations.
+[2025-04-16 16:39:20] User registered: akash at 2025-04-16 16:39:20
+
+=== LOTTERY RESULT ===
+Total Participants: 3
+Participants:
+ - 
+ - Nitish
+ - akash
+Winner: akash
+[2025-04-16 16:39:20] Winner declared: akash
+[2025-04-16 17:00:35] Lottery system started.
